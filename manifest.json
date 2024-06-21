@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "TwitchChannelPoint",
+    "name": "Auto Twitch Channel Point",
     "version": "1.0.0",
     "description": "An auto channel points clicker extension for Twitch",
     "icons": {
