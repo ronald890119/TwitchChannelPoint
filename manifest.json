@@ -23,5 +23,5 @@
             "js": ["index.js"]
         }
     ],
-    "permissions": ["scripting", "activeTab"]
+    "permissions": ["scripting"]
 }
