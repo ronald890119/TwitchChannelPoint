@@ -22,6 +22,5 @@
             "matches": ["https://www.twitch.tv/*"],
             "js": ["index.js"]
         }
-    ],
-    "permissions": ["scripting"]
+    ]
 }
